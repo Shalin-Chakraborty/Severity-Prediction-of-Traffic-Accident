@@ -1,0 +1,5 @@
+https://archive.ics.uci.edu/dataset/536/pedestrian+in+traffic+dataset
+https://archive.ics.uci.edu/dataset/482/parking+birmingham
+https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents?resource=download
+https://www.kaggle.com/code/titanpointe/eda-of-road-accidents-xgb-with-w-b-sweeps#Preprocessing
+https://www.kaggle.com/code/abdallahabouelabbas/car-crashes-dataset-analysis/notebook
